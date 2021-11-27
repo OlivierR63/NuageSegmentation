@@ -2,10 +2,10 @@
 
 Différents scripts et notebooks pour le projet NuageSegmentation:
 
-* 2 scripts python pour généraliser les fonctions utilent à tous les notebooks: 
+* 2 scripts python pour généraliser les fonctions utiles à tous les notebooks: 
 
   * clouds_graph_functions: script python avec toutes les fonctions utiles à l'affichage
-  * clouds_utilities_functions: script python avec toutes les fonctions utiles non lié à l'affichage
+  * clouds_utilities_functions: script python avec toutes les fonctions utiles non liées à l'affichage
   
 * 6 notebooks:
   
