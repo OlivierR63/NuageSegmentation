@@ -1,0 +1,1 @@
+HOME_STREAMLIT = 'F:\Travail\DataScientest\Git_sources\streamlit'
